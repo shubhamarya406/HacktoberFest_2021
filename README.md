@@ -52,3 +52,5 @@
   48. Program to Find Transpose of a Matrix
   49. Program to Multiply two Matrices by Passing Matrix to a Function
   50. Program to Access Array Elements Using Pointer
+  51. Program Swap Numbers in Cyclic Order Using Call by Reference
+  52. Program to Find Largest Number Using Dynamic Memory Allocation
