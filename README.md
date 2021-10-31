@@ -59,3 +59,8 @@
   55. Program to Remove all Characters in a String Except Alphabets
   56. Program to Find the Length of a String
   57. Program to Concatenate Two Strings
+  58. Program to Copy String Without Using strcpy()
+  59. Program to Sort Elements in Lexicographical Order (Dictionary Order)
+  60. Program to Store Information of a Student Using Structure
+  61. Program to Add Two Distances (in inch-feet) System Using Structures
+  62. Program to Add Two Complex Numbers by Passing Structure to a Function
