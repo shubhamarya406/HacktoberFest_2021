@@ -47,3 +47,8 @@
   43. Program to Calculate Average Using Arrays
   44. Program to Find Largest Element in an Array
   45. Program to Calculate Standard Deviation
+  46. Program to Add Two Matrices Using Multi-dimensional Arrays
+  47. Program to Multiply to Matrix Using Multi-dimensional Arrays
+  48. Program to Find Transpose of a Matrix
+  49. Program to Multiply two Matrices by Passing Matrix to a Function
+  50. Program to Access Array Elements Using Pointer
