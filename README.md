@@ -1,4 +1,4 @@
-# HacktoberFest_2021
+# HacktoberFest_2022
 
 ## Questions to be solved:
 
