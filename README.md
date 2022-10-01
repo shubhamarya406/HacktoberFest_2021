@@ -66,4 +66,4 @@
   61. Program to Add Two Distances (in inch-feet) System Using Structures
   62. Program to Add Two Complex Numbers by Passing Structure to a Function
 
-## Thanks for your contributiona and also for participating in Hacktoberfest 2022✨🎉🎊🎉
+## Thanks for your contributions and also for participating in Hacktoberfest 2022✨🎉🎊🎉
