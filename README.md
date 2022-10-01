@@ -1,6 +1,7 @@
-# HacktoberFest_2021
+# HacktoberFest_2022
 
 ## Questions to be solved:
+## NOTE: You can program in any language
 
   1.  "Hello, World!" Program
   2.  Program to Print an Integer (Entered by the User)
@@ -64,3 +65,5 @@
   60. Program to Store Information of a Student Using Structure
   61. Program to Add Two Distances (in inch-feet) System Using Structures
   62. Program to Add Two Complex Numbers by Passing Structure to a Function
+
+## Thanks for your contributiona and also for participating in Hacktoberfest 2022✨🎉🎊🎉
